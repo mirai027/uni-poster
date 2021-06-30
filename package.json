@@ -1,0 +1,13 @@
+{
+  "name": "uni-poster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mirai027/uni-poster.git",
+  "author": "叶雨林 <mirai_white@foxmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "husky": "^6.0.0"
+  }
+}
