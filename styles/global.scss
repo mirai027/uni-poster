@@ -1,0 +1,16 @@
+@import './variables.scss';
+
+page {
+  background-color: $background-color;
+}
+
+text {
+  font-size: $font-size-md;
+  line-height: $line-height-md;
+  color: $text-color;
+}
+
+image {
+  width: 200rpx;
+  height: 200rpx;
+}
