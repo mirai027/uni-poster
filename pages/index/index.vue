@@ -225,6 +225,17 @@ export default {
 
       this.showPosterOverlay = true
     }
+  },
+  onShareAppMessage() {
+    return {
+      title: '我在参与抽奖，快来一起参与吧~',
+      path: '/pages/index/index'
+    }
+  },
+  onShareTimeline() {
+    return {
+      title: '我在参与抽奖，快来一起参与吧~'
+    }
   }
 }
 </script>
